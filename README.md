@@ -4,7 +4,7 @@
 ### _One task at a time 💪_
 
  A tiny, cute, minimal todo app built to help you stay on track & celebrate small wins. ✨  
-
+ 
 </div>
 
 ---
